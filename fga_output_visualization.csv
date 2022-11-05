@@ -1,0 +1,127 @@
+gameId,playId,specialTeamsPlayType,specialTeamsResult,nflId,yardlineSide,yardlineNumber,kickLength,absoluteYardlineNumber,x,y,s,event,displayName,position,team,playDirection
+2020091302,2883,Field Goal,Kick Attempt No Good,52596.0,NYJ,20,38.0,90,81.67,27.86,2.37,field_goal_attempt,Tyler Bass,K,home,right
+2020091302,3196,Field Goal,Kick Attempt No Good,52596.0,NYJ,16,34.0,94,85.72,27.08,2.53,field_goal_attempt,Tyler Bass,K,home,right
+2020091302,4130,Field Goal,Kick Attempt Good,52596.0,NYJ,1,19.0,11,19.09,25.93,2.42,field_goal_attempt,Tyler Bass,K,home,left
+2020091400,337,Field Goal,Kick Attempt Good,35102.0,PIT,2,21.0,12,21.48,28.99,2.44,field_goal_attempt,Graham Gano,K,home,left
+2020092000,1858,Field Goal,Kick Attempt No Good,35102.0,CHI,39,57.0,71,62.47,30.72,2.33,field_goal_attempt,Graham Gano,K,away,right
+2020092000,2172,Field Goal,Kick Attempt Good,35102.0,CHI,21,39.0,31,39.03,22.64,2.06,field_goal_attempt,Graham Gano,K,away,left
+2020092000,3336,Field Goal,Kick Attempt Good,35102.0,CHI,19,37.0,91,82.48,30.61,2.13,field_goal_attempt,Graham Gano,K,away,right
+2020092004,1697,Field Goal,Kick Attempt Good,52596.0,MIA,21,39.0,31,39.53,29.12,2.8,field_goal_attempt,Tyler Bass,K,away,left
+2020092004,2156,Field Goal,Kick Attempt Good,46298.0,BUF,34,52.0,76,67.64,30.88,3.38,field_goal_attempt,Jason Sanders,K,home,right
+2020092004,2508,Field Goal,Kick Attempt Good,46298.0,BUF,27,45.0,83,74.31,24.7,3.24,field_goal_attempt,Jason Sanders,K,home,right
+2020092100,2226,Field Goal,Kick Attempt Good,46236.0,NO,9,28.0,101,91.3,24.69,2.75,field_goal_attempt,Daniel Carlson,K,home,right
+2020092100,4100,Field Goal,Kick Attempt Good,46236.0,NO,36,54.0,74,65.32,30.97,2.92,field_goal_attempt,Daniel Carlson,K,home,right
+2020092400,3700,Field Goal,Kick Attempt Good,46298.0,JAX,13,30.0,23,31.28,27.07,3.38,field_goal_attempt,Jason Sanders,K,away,left
+2020092704,902,Field Goal,Kick Attempt Good,46236.0,NE,11,29.0,99,90.51,30.87,3.4,field_goal_attempt,Daniel Carlson,K,away,right
+2020092704,2569,Field Goal,Kick Attempt No Good,46236.0,NE,22,41.0,88,78.41,30.87,3.29,field_goal_attempt,Daniel Carlson,K,away,right
+2020092704,3287,Field Goal,Kick Attempt Good,46236.0,NE,7,25.0,17,25.6,22.57,3.16,field_goal_attempt,Daniel Carlson,K,away,left
+2020092705,935,Field Goal,Kick Attempt Good,35102.0,SF,34,52.0,44,53.02,26.34,2.59,field_goal_attempt,Graham Gano,K,home,left
+2020092705,1356,Field Goal,Kick Attempt Good,35102.0,SF,24,42.0,34,43.13,28.73,2.57,field_goal_attempt,Graham Gano,K,home,left
+2020092705,2433,Field Goal,Kick Attempt Good,35102.0,SF,29,47.0,81,71.91,27.21,2.65,field_goal_attempt,Graham Gano,K,home,right
+2020100406,800,Field Goal,Kick Attempt Good,46298.0,SEA,23,41.0,33,41.88,22.48,3.33,field_goal_attempt,Jason Sanders,K,home,left
+2020100406,1224,Field Goal,Kick Attempt Good,46298.0,SEA,11,29.0,99,89.67,24.99,3.61,field_goal_attempt,Jason Sanders,K,home,right
+2020100406,1865,Field Goal,Kick Attempt Good,46298.0,SEA,27,45.0,83,74.33,31.09,3.29,field_goal_attempt,Jason Sanders,K,home,right
+2020100406,2678,Field Goal,Kick Attempt Good,46298.0,SEA,25,43.0,35,43.86,28.79,3.34,field_goal_attempt,Jason Sanders,K,home,left
+2020100406,3255,Field Goal,Kick Attempt Good,46298.0,SEA,11,29.0,99,90.25,31.16,3.43,field_goal_attempt,Jason Sanders,K,home,right
+2020100410,822,Field Goal,Kick Attempt Good,35102.0,LA,17,35.0,93,84.24,24.56,2.49,field_goal_attempt,Graham Gano,K,away,right
+2020100410,1764,Field Goal,Kick Attempt Good,35102.0,LA,19,37.0,91,82.3,24.55,2.39,field_goal_attempt,Graham Gano,K,away,right
+2020100410,2680,Field Goal,Kick Attempt Good,35102.0,LA,9,27.0,19,27.38,28.77,2.26,field_goal_attempt,Graham Gano,K,away,left
+2020100412,564,Field Goal,Kick Attempt Good,46236.0,BUF,36,54.0,46,53.82,26.32,2.93,field_goal_attempt,Daniel Carlson,K,home,left
+2020100412,1237,Field Goal,Kick Attempt Good,46236.0,BUF,21,39.0,89,80.27,24.76,3.12,field_goal_attempt,Daniel Carlson,K,home,right
+2020100412,1535,Field Goal,Kick Attempt Good,52596.0,LV,16,34.0,26,34.25,22.77,2.64,field_goal_attempt,Tyler Bass,K,away,left
+2020100412,2215,Field Goal,Kick Attempt Good,46236.0,BUF,7,25.0,17,25.24,29.1,2.94,field_goal_attempt,Daniel Carlson,K,home,left
+2020101103,527,Field Goal,Kick Attempt Good,46236.0,KC,20,38.0,90,81.84,24.88,3.0,field_goal_attempt,Daniel Carlson,K,away,right
+2020101103,3690,Field Goal,Kick Attempt Good,46236.0,KC,25,43.0,35,43.1,22.99,3.08,field_goal_attempt,Daniel Carlson,K,away,left
+2020101109,2007,Field Goal,Kick Attempt Good,46298.0,SF,32,50.0,78,69.21,30.83,3.32,field_goal_attempt,Jason Sanders,K,away,right
+2020101109,2206,Field Goal,Kick Attempt Good,46298.0,SF,11,29.0,99,90.12,24.58,3.07,field_goal_attempt,Jason Sanders,K,away,right
+2020101109,3608,Field Goal,Kick Attempt Good,46298.0,SF,13,31.0,97,88.08,24.6,3.15,field_goal_attempt,Jason Sanders,K,away,right
+2020101109,3800,Field Goal,Kick Attempt Good,46298.0,SF,31,49.0,79,70.22,27.01,3.25,field_goal_attempt,Jason Sanders,K,away,right
+2020101111,1090,Field Goal,Kick Attempt Good,35102.0,DAL,37,55.0,47,55.12,28.92,2.24,field_goal_attempt,Graham Gano,K,away,left
+2020101111,1954,Field Goal,Kick Attempt Good,35102.0,DAL,32,50.0,42,50.03,28.91,2.09,field_goal_attempt,Graham Gano,K,away,left
+2020101300,1368,Field Goal,Kick Attempt Good,52596.0,TEN,25,43.0,85,76.65,24.51,2.44,field_goal_attempt,Tyler Bass,K,away,right
+2020101804,583,Field Goal,Kick Attempt Good,35102.0,WAS,15,33.0,95,86.29,28.03,2.54,field_goal_attempt,Graham Gano,K,home,right
+2020101804,1251,Field Goal,Kick Attempt Good,35102.0,WAS,2,20.0,12,20.6,23.89,2.52,field_goal_attempt,Graham Gano,K,home,left
+2020101813,2768,Field Goal,Kick Attempt Good,46298.0,NYJ,7,24.0,17,24.36,22.68,3.3,field_goal_attempt,Jason Sanders,K,home,left
+2020101901,604,Field Goal,Kick Attempt Good,52596.0,KC,30,48.0,40,49.11,22.52,2.96,field_goal_attempt,Tyler Bass,K,home,left
+2020101901,2058,Field Goal,Kick Attempt No Good,52596.0,KC,34,52.0,76,67.18,24.55,3.13,field_goal_attempt,Tyler Bass,K,home,right
+2020102506,493,Field Goal,Kick Attempt No Good,52596.0,NYJ,27,45.0,83,73.73,24.62,3.14,field_goal_attempt,Tyler Bass,K,away,right
+2020102506,1682,Field Goal,Kick Attempt Good,52596.0,NYJ,35,53.0,45,53.14,22.78,2.38,field_goal_attempt,Tyler Bass,K,away,left
+2020102506,2076,Field Goal,Kick Attempt Good,52596.0,NYJ,30,48.0,40,48.26,22.7,2.62,field_goal_attempt,Tyler Bass,K,away,left
+2020102506,2338,Field Goal,Kick Attempt Good,52596.0,NYJ,28,46.0,82,73.59,24.54,2.55,field_goal_attempt,Tyler Bass,K,away,right
+2020102506,2898,Field Goal,Kick Attempt Good,52596.0,NYJ,19,37.0,91,82.11,24.58,2.94,field_goal_attempt,Tyler Bass,K,away,right
+2020102506,3204,Field Goal,Kick Attempt No Good,52596.0,NYJ,19,37.0,29,37.45,22.68,2.72,field_goal_attempt,Tyler Bass,K,away,left
+2020102506,3555,Field Goal,Kick Attempt Good,52596.0,NYJ,11,29.0,21,29.55,28.92,2.73,field_goal_attempt,Tyler Bass,K,away,left
+2020102506,3900,Field Goal,Kick Attempt Good,52596.0,NYJ,22,40.0,32,40.55,22.63,2.74,field_goal_attempt,Tyler Bass,K,away,left
+2020102511,946,Field Goal,Kick Attempt Good,46236.0,TB,24,42.0,34,42.25,22.85,3.15,field_goal_attempt,Daniel Carlson,K,home,left
+2020102511,3263,Field Goal,Kick Attempt Good,46236.0,TB,17,36.0,93,83.01,24.75,3.32,field_goal_attempt,Daniel Carlson,K,home,right
+2020110100,3326,Field Goal,Kick Attempt Good,52596.0,NE,10,28.0,20,28.43,28.89,2.51,field_goal_attempt,Tyler Bass,K,home,left
+2020110102,273,Field Goal,Kick Attempt No Good,46236.0,CLE,23,41.0,33,41.39,22.79,3.24,field_goal_attempt,Daniel Carlson,K,away,left
+2020110102,1414,Field Goal,Kick Attempt Good,46236.0,CLE,10,29.0,100,90.65,30.32,3.13,field_goal_attempt,Daniel Carlson,K,away,right
+2020110102,1950,Field Goal,Kick Attempt Good,46236.0,CLE,15,33.0,95,86.53,30.77,3.48,field_goal_attempt,Daniel Carlson,K,away,right
+2020110102,3248,Field Goal,Kick Attempt Good,46236.0,CLE,6,24.0,104,95.21,25.8,3.39,field_goal_attempt,Daniel Carlson,K,away,right
+2020110200,3095,Field Goal,Kick Attempt Good,35102.0,TB,15,33.0,25,33.72,28.99,2.53,field_goal_attempt,Graham Gano,K,home,left
+2020110801,2154,Field Goal,Kick Attempt No Good,52596.0,SEA,42,61.0,52,62.06,22.65,3.15,field_goal_attempt,Tyler Bass,K,home,left
+2020110801,3907,Field Goal,Kick Attempt Good,52596.0,SEA,13,31.0,97,87.93,24.87,2.8,field_goal_attempt,Tyler Bass,K,home,right
+2020110807,428,Field Goal,Kick Attempt Good,35102.0,WAS,20,38.0,90,81.13,24.64,2.36,field_goal_attempt,Graham Gano,K,away,right
+2020110807,1595,Field Goal,Kick Attempt Good,35102.0,WAS,30,48.0,40,48.82,28.76,2.52,field_goal_attempt,Graham Gano,K,away,left
+2020110807,2831,Field Goal,Kick Attempt Good,35102.0,WAS,24,42.0,34,42.58,22.59,2.5,field_goal_attempt,Graham Gano,K,away,left
+2020110808,3457,Field Goal,Kick Attempt Good,46236.0,LAC,13,31.0,23,31.37,22.59,3.15,field_goal_attempt,Daniel Carlson,K,away,left
+2020110809,2458,Field Goal,Kick Attempt Good,46298.0,ARI,38,56.0,72,64.07,27.81,2.82,field_goal_attempt,Jason Sanders,K,away,right
+2020110809,4173,Field Goal,Kick Attempt Good,46298.0,ARI,32,50.0,42,50.3,28.96,3.06,field_goal_attempt,Jason Sanders,K,away,left
+2020111504,3616,Field Goal,Kick Attempt Good,35102.0,PHI,17,35.0,27,35.29,22.51,2.4,field_goal_attempt,Graham Gano,K,home,left
+2020111504,3996,Field Goal,Kick Attempt Good,35102.0,PHI,26,44.0,36,44.42,27.94,2.3,field_goal_attempt,Graham Gano,K,home,left
+2020111506,949,Field Goal,Kick Attempt Good,52596.0,ARI,36,54.0,74,65.36,30.94,2.86,field_goal_attempt,Tyler Bass,K,away,right
+2020111506,1516,Field Goal,Kick Attempt Good,52596.0,ARI,37,55.0,73,64.5,30.92,2.82,field_goal_attempt,Tyler Bass,K,away,right
+2020111506,2236,Field Goal,Kick Attempt Good,52596.0,ARI,41,58.0,69,61.25,24.76,2.97,field_goal_attempt,Tyler Bass,K,away,right
+2020111507,1854,Field Goal,Kick Attempt Good,46236.0,DEN,6,24.0,104,95.5,24.67,2.87,field_goal_attempt,Daniel Carlson,K,home,right
+2020111507,2537,Field Goal,Kick Attempt Good,46236.0,DEN,33,52.0,43,51.94,22.91,3.04,field_goal_attempt,Daniel Carlson,K,home,left
+2020111507,3156,Field Goal,Kick Attempt Good,46236.0,DEN,4,22.0,106,97.77,24.56,2.76,field_goal_attempt,Daniel Carlson,K,home,right
+2020111512,1925,Field Goal,Kick Attempt Good,46298.0,LAC,32,50.0,78,69.48,30.93,3.31,field_goal_attempt,Jason Sanders,K,home,right
+2020111512,2600,Field Goal,Kick Attempt Good,46298.0,LAC,17,35.0,93,84.44,24.75,3.19,field_goal_attempt,Jason Sanders,K,home,right
+2020111512,3161,Field Goal,Kick Attempt No Good,46298.0,LAC,29,47.0,39,47.21,22.81,3.11,field_goal_attempt,Jason Sanders,K,home,left
+2020111512,3452,Field Goal,Kick Attempt Good,46298.0,LAC,31,49.0,41,49.32,22.77,3.11,field_goal_attempt,Jason Sanders,K,home,left
+2020112210,1440,Field Goal,Kick Attempt Good,46236.0,KC,16,35.0,94,84.86,30.8,2.63,field_goal_attempt,Daniel Carlson,K,home,right
+2020112211,1689,Field Goal,Kick Attempt Good,46298.0,DEN,23,41.0,87,78.63,30.83,3.0,field_goal_attempt,Jason Sanders,K,away,right
+2020112211,3214,Field Goal,Kick Attempt Good,46298.0,DEN,35,53.0,45,52.74,29.09,2.33,field_goal_attempt,Jason Sanders,K,away,left
+2020112900,1208,Field Goal,Kick Attempt Good,46236.0,ATL,11,29.0,99,90.89,30.71,2.99,field_goal_attempt,Daniel Carlson,K,away,right
+2020112900,3143,Field Goal,Kick Attempt Good,46236.0,ATL,6,24.0,104,95.68,24.47,3.21,field_goal_attempt,Daniel Carlson,K,away,right
+2020112901,1933,Field Goal,Kick Attempt Good,52596.0,LAC,26,45.0,36,45.6,22.59,2.92,field_goal_attempt,Tyler Bass,K,home,left
+2020112901,4083,Field Goal,Kick Attempt Good,52596.0,LAC,25,43.0,85,76.79,30.75,3.15,field_goal_attempt,Tyler Bass,K,home,right
+2020112902,1831,Field Goal,Kick Attempt Good,35102.0,CIN,31,49.0,41,49.71,28.9,2.35,field_goal_attempt,Graham Gano,K,away,left
+2020112902,2247,Field Goal,Kick Attempt Good,35102.0,CIN,22,40.0,88,79.13,30.92,2.58,field_goal_attempt,Graham Gano,K,away,right
+2020112902,2871,Field Goal,Kick Attempt Good,35102.0,CIN,21,39.0,31,39.74,28.94,2.63,field_goal_attempt,Graham Gano,K,away,left
+2020112902,3400,Field Goal,Kick Attempt Good,35102.0,CIN,14,32.0,24,32.75,27.04,2.72,field_goal_attempt,Graham Gano,K,away,left
+2020112907,1727,Field Goal,Kick Attempt Good,46298.0,NYJ,33,51.0,43,51.28,25.06,2.88,field_goal_attempt,Jason Sanders,K,away,left
+2020120603,1093,Field Goal,Kick Attempt Good,46298.0,CIN,7,25.0,103,94.81,27.38,2.98,field_goal_attempt,Jason Sanders,K,home,right
+2020120603,2030,Field Goal,Kick Attempt Good,46298.0,CIN,30,48.0,80,71.94,24.73,3.02,field_goal_attempt,Jason Sanders,K,home,right
+2020120603,2641,Field Goal,Kick Attempt Good,46298.0,CIN,5,23.0,105,96.77,29.87,3.22,field_goal_attempt,Jason Sanders,K,home,right
+2020120603,3090,Field Goal,Kick Attempt Good,46298.0,CIN,1,19.0,11,19.34,26.85,3.05,field_goal_attempt,Jason Sanders,K,home,left
+2020120605,1444,Field Goal,Kick Attempt Good,46236.0,NYJ,30,48.0,80,71.78,27.89,3.18,field_goal_attempt,Daniel Carlson,K,away,right
+2020120609,3315,Field Goal,Kick Attempt Good,35102.0,SEA,30,48.0,40,48.59,27.5,2.52,field_goal_attempt,Graham Gano,K,away,left
+2020121305,498,Field Goal,Kick Attempt No Good,46298.0,KC,27,45.0,37,45.59,22.91,3.09,field_goal_attempt,Jason Sanders,K,home,left
+2020121305,4387,Field Goal,Kick Attempt Good,46298.0,KC,26,44.0,84,75.9,24.82,2.72,field_goal_attempt,Jason Sanders,K,home,right
+2020121308,2374,Field Goal,Kick Attempt Good,46236.0,IND,7,25.0,103,94.49,24.48,3.13,field_goal_attempt,Daniel Carlson,K,home,right
+2020121308,2844,Field Goal,Kick Attempt Good,46236.0,IND,5,23.0,105,96.49,24.6,2.79,field_goal_attempt,Daniel Carlson,K,home,right
+2020121313,1965,Field Goal,Kick Attempt Good,52596.0,PIT,16,34.0,26,33.81,22.82,2.27,field_goal_attempt,Tyler Bass,K,home,left
+2020121313,3577,Field Goal,Kick Attempt Good,52596.0,PIT,5,23.0,15,23.1,25.67,2.45,field_goal_attempt,Tyler Bass,K,home,left
+2020121700,620,Field Goal,Kick Attempt Good,46236.0,LAC,5,23.0,105,96.02,24.64,3.28,field_goal_attempt,Daniel Carlson,K,home,right
+2020121700,3942,Field Goal,Kick Attempt Good,46236.0,LAC,5,23.0,105,96.58,26.92,2.82,field_goal_attempt,Daniel Carlson,K,home,right
+2020121900,3399,Field Goal,Kick Attempt Good,52596.0,DEN,9,27.0,19,27.61,22.62,3.04,field_goal_attempt,Tyler Bass,K,away,left
+2020122007,1840,Field Goal,Kick Attempt No Good,46298.0,NE,34,52.0,76,67.61,31.11,2.98,field_goal_attempt,Jason Sanders,K,home,right
+2020122009,662,Field Goal,Kick Attempt Good,35102.0,CLE,19,37.0,91,82.69,24.49,1.97,field_goal_attempt,Graham Gano,K,home,right
+2020122009,3199,Field Goal,Kick Attempt Good,35102.0,CLE,21,39.0,89,80.8,24.45,2.0,field_goal_attempt,Graham Gano,K,home,right
+2020122602,713,Field Goal,Kick Attempt Good,46298.0,LV,19,37.0,29,37.45,25.39,3.21,field_goal_attempt,Jason Sanders,K,away,left
+2020122602,1278,Field Goal,Kick Attempt Good,46236.0,MIA,5,23.0,15,23.39,22.46,3.33,field_goal_attempt,Daniel Carlson,K,home,left
+2020122602,1588,Field Goal,Kick Attempt Good,46298.0,LV,21,39.0,89,80.15,28.05,3.18,field_goal_attempt,Jason Sanders,K,away,right
+2020122602,1858,Field Goal,Kick Attempt Good,46236.0,MIA,20,38.0,30,38.67,22.66,3.68,field_goal_attempt,Daniel Carlson,K,home,left
+2020122602,2560,Field Goal,Kick Attempt Good,46236.0,MIA,2,20.0,108,98.94,31.02,3.51,field_goal_attempt,Daniel Carlson,K,home,right
+2020122602,3301,Field Goal,Kick Attempt Good,46298.0,LV,4,22.0,106,96.82,31.14,3.13,field_goal_attempt,Jason Sanders,K,away,right
+2020122602,3811,Field Goal,Kick Attempt Good,46236.0,MIA,4,22.0,14,22.52,22.65,3.52,field_goal_attempt,Daniel Carlson,K,home,left
+2020122602,3909,Field Goal,Kick Attempt Good,46298.0,LV,26,44.0,84,74.6,31.22,3.2,field_goal_attempt,Jason Sanders,K,away,right
+2020122705,1698,Field Goal,Kick Attempt Good,35102.0,BAL,13,31.0,97,88.11,24.63,2.54,field_goal_attempt,Graham Gano,K,away,right
+2020122705,2630,Field Goal,Kick Attempt Good,35102.0,BAL,24,42.0,34,42.96,28.72,2.71,field_goal_attempt,Graham Gano,K,away,left
+2020122800,455,Field Goal,Kick Attempt Good,52596.0,NE,4,22.0,14,22.65,22.63,3.03,field_goal_attempt,Tyler Bass,K,away,left
+2021010300,376,Field Goal,Kick Attempt Good,46298.0,BUF,31,49.0,41,49.22,22.59,2.94,field_goal_attempt,Jason Sanders,K,away,left
+2021010300,1947,Field Goal,Kick Attempt Good,46298.0,BUF,14,32.0,96,87.45,25.1,3.03,field_goal_attempt,Jason Sanders,K,away,right
+2021010308,3776,Field Goal,Kick Attempt Good,35102.0,DAL,32,50.0,78,69.38,30.9,2.53,field_goal_attempt,Graham Gano,K,home,right
+2021010311,680,Field Goal,Kick Attempt Good,46236.0,DEN,15,33.0,95,86.43,24.47,3.14,field_goal_attempt,Daniel Carlson,K,away,right
